@@ -1,0 +1,287 @@
+/*Write your style here*/
+.juan{
+	
+	background:url("../images/1.jpg")no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 1260px;
+	height: 580px;
+	
+}
+
+
+
+.JJ{
+	color: gray;
+	position: absolute;
+	left: 5%;
+	top: 4%;
+	font-size: 200%;
+	font-family: cursive;
+
+
+}
+
+.JD{
+	color: white;
+	position: absolute;
+	left: 50%;
+	top: 4%;
+	font-size: 100%;
+	font-family: cursive;
+
+
+
+}
+
+.JA{
+	color: white;
+	position: absolute;
+	left: 60%;
+	top: 4%;
+	font-size: 100%;
+	font-family: cursive;
+
+
+}
+
+.JO{
+	color: white;
+	position: absolute;
+	left: 70%;
+	top: 4%;
+	font-size: 100%;
+	font-family: cursive;
+
+
+}
+
+.JI{
+	color: white;
+	position: absolute;
+	left: 85%;
+	top: 4%;
+	font-size: 100%;
+	font-family: cursive;
+
+
+}
+
+
+
+
+
+
+
+h1{
+	color: white;
+	position: absolute;
+	top: 25%;
+	left: 30%;
+	font-family:;
+	font-size: 250%;
+}
+
+
+.david{color: white;
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	font-family:;
+	font-size: 250%;
+}
+.luis{color: white;
+	position: absolute;
+	top: 39%;
+	left: 25%;
+	font-family:cursive;
+	font-size: 100%;
+}
+
+.dd{color: white;
+	position: absolute;
+	top: 42%;
+	left: 40%;
+	font-family:cursive;
+	font-size: 104%;
+}
+
+.o{color: white;
+	position: absolute;
+	top: 48%;
+	left: 47%;
+	font-family:;
+	font-size: 104%;
+	background-color: red;
+}
+
+
+
+
+.oscar{
+	background-color: white;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 1280px;
+	height: 530px;
+	
+
+
+
+}
+
+img{
+	width: 308px;
+	height: 220px;
+	
+}
+
+.bebe{
+	background-color: gray;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 1280px;
+	height: 10px;
+}
+
+.AJ{
+	background-color: white;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 1280px;
+	height: 800px;
+}
+
+
+.RA{
+	position: absolute;
+	top: 260%;
+	left: 10%;
+	width: 200px;
+	height: 150px;
+}
+
+.RE{
+	position: absolute;
+	top: 260%;
+	left: 30%;
+	width: 200px;
+	height: 150px;
+}
+
+
+.RI{
+	position: absolute;
+	top: 260%;
+	left: 50%;
+	width: 200px;
+	height:150px;
+}
+
+
+.RO{
+	position: absolute;
+	top: 260%;
+	left: 70%;
+	width: 200px;
+	height: 150px;
+}
+
+.FA{
+	color: black;
+	position: absolute;
+	top: 5%;
+	left: 10%;
+	font-family: batang;
+	font-size: 110%;
+}
+
+.perro{
+	background-color: white;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 210px;
+	height: 400px;
+	position: absolute;
+	top: 290%;
+	left: 10%;
+
+}
+
+.FE{
+	color: red;
+	position: absolute;
+	top: 15%;
+	left: 10%;
+	font-family: batang;
+	font-size: 100%;
+}
+
+.FI{
+	color: black;
+	position: absolute;
+	top: 30%;
+	left: 10%;
+	font-family: cursive;
+	font-size: 80%;
+}
+
+.perros{
+	background-color: white;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 210px;
+	height: 400px;
+	position: absolute;
+	top: 290%;
+	left: 30%;
+}
+
+.perross{
+	background-color: white;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 210px;
+	height: 400px;
+	position: absolute;
+	top: 290%;
+	left: 50%;
+}
+
+.perrosss{
+	background-color: white;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 210px;
+	height: 400px;
+	position: absolute;
+	top: 290%;
+	left: 70%;
+}
+
+.semi{
+background:url("../images/23.jpg")no-repeat;
+	
+	background-position: center;
+	background-size: cover;
+	width: 400px;
+	height: 200px;
+position:absolute;
+left:1%;
+}
+
+.ss{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 90%;
+	left: 1%;
+}
